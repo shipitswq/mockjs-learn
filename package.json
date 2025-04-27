@@ -1,0 +1,26 @@
+{
+  "name": "mockjs-learn",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "local": "node test.js",
+    "express": "node express.js",
+    "json-server": "node json_server.js && json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipitswq/mockjs-learn.git"
+  },
+  "author": "Vicky Song",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shipitswq/mockjs-learn/issues"
+  },
+  "homepage": "https://github.com/shipitswq/mockjs-learn#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mockjs": "^1.1.0"
+  }
+}

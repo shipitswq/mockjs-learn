@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Deborah Gonzalez",
+      "email": "b.qnlrsmx@bopsoovlo.dz"
+    },
+    {
+      "id": 2,
+      "name": "Barbara Martinez",
+      "email": "g.jqvfggi@bvmxf.gf"
+    },
+    {
+      "id": 3,
+      "name": "Brenda Hernandez",
+      "email": "s.mhvkb@kgdvbipco.jp"
+    },
+    {
+      "id": 4,
+      "name": "Ruth Jackson",
+      "email": "w.kiutgyqzq@deqrcqdid.aw"
+    },
+    {
+      "id": 5,
+      "name": "Jennifer Clark",
+      "email": "x.buexcelm@tbcbomwb.do"
+    },
+    {
+      "id": 6,
+      "name": "Paul Jackson",
+      "email": "d.aniwwhie@iviewtejl.st"
+    },
+    {
+      "id": 7,
+      "name": "Kevin Hall",
+      "email": "i.jsguquc@zptxgfmv.do"
+    },
+    {
+      "id": 8,
+      "name": "Ronald Walker",
+      "email": "b.vxlvr@pgglmsqfu.org"
+    },
+    {
+      "id": 9,
+      "name": "Jennifer White",
+      "email": "x.inlbixv@mgxsh.ch"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Duhx Atvl Sjhq Fbbnyxr",
+      "price": 94.45
+    },
+    {
+      "id": 2,
+      "title": "Jfvumq Bstfmnw Xgshs",
+      "price": 100.77
+    },
+    {
+      "id": 3,
+      "title": "Pnfatpfo Kknglsz Nyvrr Qbubsim",
+      "price": 17.78
+    },
+    {
+      "id": 4,
+      "title": "Pdvriavc Inebdqo Kcwgn Swgvmlvxu Ockgs Psdfzbtw Kedzsecpc",
+      "price": 73.67
+    },
+    {
+      "id": 5,
+      "title": "Gjpewwph Qpffqwug Fvyh Hwbimfjrw Tcpkt",
+      "price": 92.34
+    },
+    {
+      "id": 6,
+      "title": "Tiladbfm Becdsj Jwrwufb Jymqw Opgopoic",
+      "price": 42.74
+    }
+  ]
+}
